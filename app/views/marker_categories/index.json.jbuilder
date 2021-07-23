@@ -1,0 +1,1 @@
+json.array! @categories, partial: "marker_categories/marker_categories"

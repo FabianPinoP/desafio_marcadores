@@ -32,6 +32,9 @@ Como desarrollador de software, te han encargado hacer lo siguiente:
 
 1. Entregar un diagrama de relaciones, de tal manera que explique cómo interactúa
    cada uno de los modelos.
+
+   - ver carpeta esquema de base datos incluida en esta qpp
+   
 2. Entregar un CRUD para la administración de Categorías, Marcador y Tipo.
 3. El formulario para agregar Marcadores debe ser enviado a través de una petición
    AJAX y antes de ser enviado debe pedir confirmación.
